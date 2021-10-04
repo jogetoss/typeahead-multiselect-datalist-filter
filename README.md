@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+Typeahead Multiselect Datalist Filter is a Datalist Filter plugin that list possible choices based on user input while filling the search filter
 
 # Getting Help
 
