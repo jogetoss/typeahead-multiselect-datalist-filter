@@ -2,17 +2,17 @@
 
     <#if element.datalist ??>
 
-        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.marketplace.TypeAheadMultiSelectSearch/lib/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.plugin.TypeAheadMultiSelectSearch/lib/bootstrap.min.css" type="text/css">
 
-        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.marketplace.TypeAheadMultiSelectSearch/lib/bootstrap-multiselect.css" type="text/css">
+        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.plugin.TypeAheadMultiSelectSearch/lib/bootstrap-multiselect.css" type="text/css">
 
-        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.marketplace.TypeAheadMultiSelectSearch/lib/prettify.css" type="text/css">
+        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.plugin.TypeAheadMultiSelectSearch/lib/prettify.css" type="text/css">
 
-        <script type="text/javascript" src="${request.contextPath}/plugin/org.joget.marketplace.TypeAheadMultiSelectSearch/lib/bootstrap-multiselect.js"></script>
+        <script type="text/javascript" src="${request.contextPath}/plugin/org.joget.plugin.TypeAheadMultiSelectSearch/lib/bootstrap-multiselect.js"></script>
 
-        <script type="text/javascript" src="${request.contextPath}/plugin/org.joget.marketplace.TypeAheadMultiSelectSearch/lib/prettify.js"></script>
+        <script type="text/javascript" src="${request.contextPath}/plugin/org.joget.plugin.TypeAheadMultiSelectSearch/lib/prettify.js"></script>
 
-        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.marketplace.TypeAheadMultiSelectSearch/lib/jquerysctipttop.css" type="text/css">
+        <link rel="stylesheet" href="${request.contextPath}/plugin/org.joget.plugin.TypeAheadMultiSelectSearch/lib/jquerysctipttop.css" type="text/css">
 
     </#if>
 
