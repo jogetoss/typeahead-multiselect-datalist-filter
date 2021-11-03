@@ -42,7 +42,7 @@
                     <option value="${option.value!?html}" grouping="${option.grouping!?html}" <#if values?? && values?seq_contains(option.value!)>selected</#if> >${option.label!?html}</option>
                 </#list>                                                                      
             </select>
-
+            <input type="hidden" name="${name!}" value=""/>
     <#else>
             <input id="${name!?replace(".", "_")}" name="${name!}" type="text" size="10" placeholder="${label!?html}"/>
     </#if>
