@@ -36,7 +36,7 @@ public class TypeAheadMultiSelectSearch extends DataListFilterTypeDefault  {
     }
 
     public String getVersion() {
-        return "7.0.0";
+        return "7.0.1";
     }
     
     public String getClassName() {
