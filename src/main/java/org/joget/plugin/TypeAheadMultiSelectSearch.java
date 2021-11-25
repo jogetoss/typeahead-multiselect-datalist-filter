@@ -217,6 +217,10 @@ public class TypeAheadMultiSelectSearch extends DataListFilterTypeDefault  {
                 List<String> valuesList = new ArrayList<String>();
                 
                 for (String value : values) {
+                    
+                    if(value.isEmpty()){
+                        continue;
+                    }
                     //support aggregate function
                     if (columnName.toLowerCase().contains("count(")
                             || columnName.toLowerCase().contains("sum(")
