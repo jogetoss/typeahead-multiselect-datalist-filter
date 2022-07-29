@@ -4,7 +4,7 @@
     <groupId>org.joget.plugin</groupId>
     <artifactId>typeahead-multiselect-datalist-filter</artifactId>
     <packaging>bundle</packaging>
-    <version>7.0.2</version>
+    <version>7.0.3</version>
     <name>typeahead-multiselect-datalist-filter</name>
     <url>http://www.joget.org</url>
     <build>
