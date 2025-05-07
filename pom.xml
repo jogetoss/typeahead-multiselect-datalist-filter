@@ -4,7 +4,7 @@
     <groupId>org.joget.plugin</groupId>
     <artifactId>typeahead-multiselect-datalist-filter</artifactId>
     <packaging>bundle</packaging>
-    <version>7.0.5</version>
+    <version>8.0.0</version>
     <name>typeahead-multiselect-datalist-filter</name>
     <url>http://www.joget.org</url>
     <build>
@@ -70,7 +70,7 @@
         <dependency>
             <groupId>org.joget</groupId>
             <artifactId>wflow-core</artifactId>
-            <version>7.0-SNAPSHOT</version>
+            <version>8.0-SNAPSHOT</version>
             <exclusions>
                 <exclusion>
                     <groupId>javax.servlet</groupId>
