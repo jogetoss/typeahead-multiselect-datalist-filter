@@ -4,6 +4,8 @@ Typeahead Multiselect Datalist Filter is a Datalist Filter plugin that list poss
 
 ![screenshot](https://user-images.githubusercontent.com/70784722/138054386-93ef9d08-60f7-4625-a679-1b8a85b64885.png)
 
+This plugin is available in Joget DX8 and Joget DX9 by default, and you do not need to install it again.
+
 # Getting Help
 
 JogetOSS is a community-led team for open source software related to the [Joget](https://www.joget.org) no-code/low-code application platform.
